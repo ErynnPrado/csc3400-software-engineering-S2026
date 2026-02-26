@@ -6,7 +6,7 @@ Included are:
 - 7 API endpoints (5 CRUD and 2 filtering)
 - SQL queries (INSERT, SELECT, UPDATE, DELETE)
 - Input validation using explicit checks and HTTPException
-- Proper HTTP status codes (200, 201, 400, 401)
+- Proper HTTP status codes (200, 201, 400, 404)
 
 ## Installation
 
